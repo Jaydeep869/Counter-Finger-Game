@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="256" fill="#4361ee"/>
+  
+  <!-- Counter/Timer Design -->
+  <circle cx="256" cy="256" r="200" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-width="10"/>
+  
+  <!-- Digital Timer Display -->
+  <rect x="156" y="216" width="200" height="80" rx="10" ry="10" fill="#f9fafb"/>
+  
+  <!-- Timer Digits - "0:00" -->
+  <text x="256" y="276" font-family="Arial, sans-serif" font-size="64" font-weight="bold" text-anchor="middle" fill="#252525">0:00</text>
+  
+  <!-- Play Button Triangle -->
+  <path d="M240,320 L300,256 L240,192 Z" fill="#f72585"/>
+  
+  <!-- Timer Control Buttons -->
+  <circle cx="200" cy="360" r="25" fill="#7209b7"/>
+  <circle cx="312" cy="360" r="25" fill="#3a86ff"/>
+  
+  <!-- Top Decorative Elements -->
+  <rect x="200" y="150" width="112" height="20" rx="10" ry="10" fill="#8338ec"/>
+  
+  <!-- Animation Sparks - Static Representation -->
+  <circle cx="350" cy="200" r="10" fill="#ffbe0b"/>
+  <circle cx="370" cy="170" r="8" fill="#ffbe0b"/>
+  <circle cx="162" cy="200" r="10" fill="#ffbe0b"/>
+  <circle cx="142" cy="170" r="8" fill="#ffbe0b"/>
+</svg> 
